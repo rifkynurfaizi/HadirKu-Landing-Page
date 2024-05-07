@@ -94,7 +94,7 @@
             <div class="home-three-slide-face">
               <div class="home-three-slide-text">
                 <h5 class="quattrocento-sans-bold">Welcome To</h5>
-                <h1>Platform Presensi Digital Umum</h1>
+                <h1>Platform Presensi Digital</h1>
                 <p class="quattrocento-sans-regular">Bergabunglah dengan kami sekarang untuk menghemat waktu, mengurangi biaya administrasi, dan meningkatkan akurasi data presensi Anda.</p>
               </div>
               <div class="banner-three-content">
