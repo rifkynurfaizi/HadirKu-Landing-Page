@@ -110,7 +110,7 @@
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="" alt="">
+                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
@@ -131,7 +131,7 @@
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="" alt="">
+                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
@@ -158,7 +158,7 @@
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="" alt="">
+                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
@@ -185,7 +185,7 @@
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="" alt="">
+                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="" alt="">
+                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
