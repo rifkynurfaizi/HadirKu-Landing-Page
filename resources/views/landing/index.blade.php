@@ -98,7 +98,7 @@
                   </li>
                   <li class="has-submenu">
                     <a href="#events"
-                      >Eventss</a>
+                      >Events</a>
                   </li>
                   <li class="login-link">
                     <a href="/login">Masuk / Daftar</a>
