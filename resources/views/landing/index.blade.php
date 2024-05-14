@@ -789,7 +789,7 @@
                               >sale</span
                             >
                           </div>
-                          <a href="blog-details.html">
+                          <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
                               What is Lorem Ipsum
                             </h5>
@@ -823,7 +823,7 @@
                           <div class="event-span-three">
                             <span class="span-name-three badge-info">sale</span>
                           </div>
-                          <a href="blog-details.html">
+                          <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
                               Why do we use it
                             </h5>
@@ -861,7 +861,7 @@
                           <div class="event-span-three">
                             <span class="span-name-three badge-info">sale</span>
                           </div>
-                          <a href="blog-details.html">
+                          <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
                               Where does it come from
                             </h5>
@@ -896,7 +896,7 @@
                           <div class="event-span-three">
                             <span class="span-name-three badge-info">sale</span>
                           </div>
-                          <a href="blog-details.html">
+                          <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
                               Why do we use it
                             </h5>

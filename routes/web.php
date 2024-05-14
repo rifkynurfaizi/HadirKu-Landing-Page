@@ -24,3 +24,7 @@ Route::get('/Frequently-Asked-Questions', function () {
 Route::get('/Pricing', function () {
     return view('landing/pricing');
 });
+
+Route::get('/Blog-details', function () {
+    return view('landing/blog-detail');
+});
