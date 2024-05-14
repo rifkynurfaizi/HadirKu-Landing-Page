@@ -11,7 +11,7 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="assets/img/favicon1.ico"
+      href="assets/img/favicon.ico"
     />
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
