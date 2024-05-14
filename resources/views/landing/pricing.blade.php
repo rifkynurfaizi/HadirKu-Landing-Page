@@ -181,7 +181,7 @@
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Pearl</b></p>
                   <p class="fw-normal text-white text-s quattrocento-sans-regular"><s>Rp 1,500,000</s>,-</p>
-                  <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,00,000</b>,-</p>
+                  <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,000,000</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
