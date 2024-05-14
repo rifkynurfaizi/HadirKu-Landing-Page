@@ -101,7 +101,7 @@
                       >Eventss</a>
                   </li>
                   <li class="login-link">
-                    <a href="login.html">Masuk / Daftar</a>
+                    <a href="/login">Masuk / Daftar</a>
                   </li>
                 </ul>
               </div>
@@ -110,7 +110,7 @@
                   <a
                     href="https://hadirku.alphabetincubator.id/login"
                     class="nav-link login-three-head button"
-                    href="login.html"
+                    href="/login"
                     ><span>Masuk</span></a
                   >
                 </li>
@@ -118,7 +118,7 @@
                   <a
                     href="https://wa.me/6285691924390?text=Halo%2C%20saya%20ingin%20menggunakan%20Hadirku.%20Apakah%20bisa%20dibantu%3F%20Terima%20kasih."
                     class="nav-link signin-three-head"
-                    href="register.html"
+                    href="/register"
                     >Daftar</a
                   >
                 </li>
@@ -1038,7 +1038,7 @@
                         >
                       </li>
                       <li>
-                        <a href="login.html" class="quattrocento-sans-regular"
+                        <a href="/login" class="quattrocento-sans-regular"
                           >BNI</a
                         >
                       </li>
