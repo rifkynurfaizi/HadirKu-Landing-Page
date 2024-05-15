@@ -54,6 +54,16 @@ body {
     color: #0CB1F2;
 }
 
+.nav-link:hover {
+    background-color: #0CB1F2;
+    color: #FFFFFF;
+    border-radius: 10%;
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+}
+
 .nav-item{
     padding: 5px;
 }
