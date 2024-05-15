@@ -17895,10 +17895,10 @@ input[type=password]::-ms-clear {
 
 @media (max-width: 499px) {
 
-   .blog-image {
-       width: 415px;
-       height: 450px;
-   }
+    .blog-image {
+        width: 100%;
+        height: auto;
+    }
 }
 
 .blog-content {
@@ -24276,7 +24276,7 @@ input[type=password]::-ms-clear {
     }
     .footer {
         padding: 40px 0;
-        background-image: none
+        
     }
     .footer-bottom {
         text-align: center;
@@ -26495,7 +26495,7 @@ input[type=password]::-ms-clear {
         margin-bottom: 30px
     }
     .footer-three-bottom .copyright-three {
-        padding-top: 30px
+        padding: 20px 0;
     }
     .footer-three {
         padding: 40px 0
@@ -26787,7 +26787,7 @@ input[type=password]::-ms-clear {
         padding: 10px 37px
     }
     .footer {
-        padding: 25px 0
+        padding:0
     }
     .footer-logo p {
         padding: 25px 0 0
@@ -28533,8 +28533,8 @@ input[type=password]::-ms-clear {
     .social-icon-three {
         display: block;
         float: none;
-        text-align: center;
-        margin-bottom: 0
+        text-align: left;
+        margin-bottom: 25px;
     }
     .footer.footer-five {
         padding: 30px 0
