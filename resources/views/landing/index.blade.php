@@ -108,7 +108,7 @@
               <ul class="nav header-navbar-rht align-items-center">
                 <li class="nav-item">
                   <a
-                    href="https://hadirku.alphabetincubator.id/login"
+                    href="/login"
                     class="nav-link login-three-head button"
                     href="/login"
                     ><span>Masuk</span></a
@@ -116,7 +116,7 @@
                 </li>
                 <li class="nav-item">
                   <a
-                    href="https://wa.me/6285691924390?text=Halo%2C%20saya%20ingin%20menggunakan%20Hadirku.%20Apakah%20bisa%20dibantu%3F%20Terima%20kasih."
+                    href="/register"
                     class="nav-link signin-three-head"
                     href="/register"
                     >Daftar</a
