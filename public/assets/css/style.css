@@ -21215,6 +21215,29 @@ input[type=password]::-ms-clear {
     font-weight: 500
 }
 
+/* Video */
+.embed-yt iframe {
+    width: 100% !important;
+  }
+  .embed-yt {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 35px 0;
+  }
+  .embed-yt iframe, .embed-yt object, .embed-yt embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .video_wrapper, .video_wrapper_full, .videoIframe {
+    border-radius: 3px;
+  }
+
 .invoice-item .invoice-details strong {
     color: #161c2d
 }
