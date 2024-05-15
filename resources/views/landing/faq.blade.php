@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="assets/plugins/select2/css/select2.min.css">
   <link rel="stylesheet" href="assets/plugins/swiper/css/swiper.min.css">
   <link rel="stylesheet" href="assets/plugins/aos/aos.css">
-  <link rel="stylesheet" href="assets/css/style2.css">
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body class="home-three">
   <div class="main-wrapper">
