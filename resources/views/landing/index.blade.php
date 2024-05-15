@@ -139,7 +139,7 @@
                 <div class="home-three-slide-text">
                   <h5 class="quattrocento-sans-bold">Welcome To</h5>
                   <h1 class="quattrocento-sans-bold">
-                    Platform Undangan Digital, Dalam Berbagai Acara. Test
+                    Platform Undangan Digital, Dalam Berbagai Acara. Test2
                   </h1>
                   <p class="quattrocento-sans-regular">
                     Bergabunglah dengan kami sekarang untuk menghemat waktu,
