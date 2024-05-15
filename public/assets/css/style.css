@@ -16,6 +16,84 @@ body {
     overflow-x: hidden
 }
 
+.h2_blog{
+    color: #0CB1F2;
+    font-family: "Quattrocento Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 40px;
+}
+
+.price-card-header {
+    font-size: 40px;
+    padding: 20px;
+}
+
+.pill-fz {
+    font-size: 20px;
+}
+
+.price-card-body {
+    font-size: 20px
+}
+
+.faq{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.accordion-item {
+    border: none;
+}
+
+.nav-link.active {
+    background-color: #0CB1F2 !important;
+}
+
+.nav-link {
+    color: #0CB1F2;
+}
+
+.nav-item{
+    padding: 5px;
+}
+
+.accordion-header .accordion-button {
+    font-size: 20px;
+}
+
+.accordion-button.collapsed{
+    box-shadow: inset 0 -2px 0 rgb(2 94 155 / 25%)
+}
+
+
+.accordion-item:last-of-type .accordion-button.collapsed {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.accordion-item:first-of-type .accordion-button.collapsed {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+
+
+.accordion-button:not(.collapsed) {
+    color: #0CB1F2;
+    background-color: white;
+    border-bottom-color: #6d6464;
+    box-shadow: inset 0 -2px 0 rgb(2 94 155 / 25%)
+}
+
+.landing--faqs-header {
+    padding-bottom: 20px;
+}
+
+.accordion-body {
+    text-align: justify;
+}
+
 .quattrocento-sans-regular {
     font-family: "Quattrocento Sans", sans-serif;
     font-weight: 400;
@@ -28506,75 +28584,4 @@ input[type=password]::-ms-clear {
        width: 37px;
        height: 37px;
    }
-}
-
-
-.price-card-header {
-    font-size: 40px;
-    padding: 20px;
-}
-
-.pill-fz {
-    font-size: 20px;
-}
-
-.price-card-body {
-    font-size: 20px
-}
-
-.faq{
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-
-.accordion-item {
-    border: none;
-}
-
-.nav-link.active {
-    background-color: #0CB1F2 !important;
-}
-
-.nav-link {
-    color: #0CB1F2;
-}
-
-.nav-item{
-    padding: 5px;
-}
-
-.accordion-header .accordion-button {
-    font-size: 20px;
-}
-
-.accordion-button.collapsed{
-    box-shadow: inset 0 -2px 0 rgb(2 94 155 / 25%)
-}
-
-
-.accordion-item:last-of-type .accordion-button.collapsed {
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-}
-
-.accordion-item:first-of-type .accordion-button.collapsed {
-    border-top-right-radius: 0;
-    border-top-left-radius: 0;
-}
-
-
-
-.accordion-button:not(.collapsed) {
-    color: #0CB1F2;
-    background-color: white;
-    border-bottom-color: #6d6464;
-    box-shadow: inset 0 -2px 0 rgb(2 94 155 / 25%)
-}
-
-.landing--faqs-header {
-    padding-bottom: 20px;
-}
-
-.accordion-body {
-    text-align: justify;
 }
