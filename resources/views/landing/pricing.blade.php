@@ -39,7 +39,7 @@
               <img src="assets/img/hadirku.gif" class="img-fluid" alt="Logo">
               </a>
             </div>
-            <div class="main-menu-wrapper">
+            <div class="main-menu-wrapper quattrocento-sans-regular">
               <div class="menu-header">
                 <a href="/" class="menu-logo">
                   <img src="assets/img/hadirku.gif" class="img-fluid" alt="Logo">

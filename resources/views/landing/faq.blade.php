@@ -39,7 +39,7 @@
               <img src="assets/img/hadirku.gif" class="img-fluid" alt="Logo">
               </a>
             </div>
-            <div class="main-menu-wrapper">
+            <div class="main-menu-wrapper quattrocento-sans-regular">
               <div class="menu-header">
                 <a href="/" class="menu-logo">
                   <img src="assets/img/hadirku.gif" class="img-fluid" alt="Logo">
@@ -96,7 +96,7 @@
               <p class="text-muted quattrocento-sans-bold" style="font-size: 40px"><strong>FAQs</strong></p>
               <h3 class="quattrocento-sans-bold">Punya Pertanyaan Lain yang belum terjawab?</h3>
               <p class="quattrocento-sans-regular">Ini Beberapa Pertanyaan Yang Sering Ditanyakan Seputar Hadirku</p>
-              <a href="https://wa.me/+6285691924390" class="badge text-bg-primary text-wrap text-end quattrocento-sans-regular">Konsultasi Via WA</a>
+              <button type="button" class="btn quattrocento-sans-regular rounded-3" style="background-color: #0CB1F2"><a href="https://wa.me/+6285691924390" style="color: #FFFFFF">Konsultasi via WA</a></button>
             </div>
           </div>
           <div class="col-10">
