@@ -72,7 +72,7 @@
                 </li>
               </ul>
             </div>
-            <ul class="nav header-navbar-rht align-items-center">
+            <ul class="nav header-navbar-rht align-items-center quattrocento-sans-regular">
               <li class="nav-item">
                 <a class="nav-link login-three-head button" href="/login"><span>Login</span></a>
               </li>

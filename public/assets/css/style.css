@@ -5162,7 +5162,8 @@ html.menu-opened body {
 
 .header-three .main-nav>li.active>a {
     color: #0cb1f2;
-    font-weight: 600
+    font-weight: 600;
+    font-size: 17px
 }
 
 .header-three .main-nav li .submenu a:hover {
