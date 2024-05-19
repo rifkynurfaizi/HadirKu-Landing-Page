@@ -5906,14 +5906,14 @@ html.menu-opened body {
 }
 
 .home-three-slide-text h5 {
-    background: #0cb1f2;
+    
+    
     border-radius: 30px;
     display: inline-flex;
-    padding: 12px;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 700;
+    font-size: 30px;
     align-items: center;
-    color: #fff;
+    color: #0cb1f2;
     margin-bottom: 15px
 }
 
@@ -23838,7 +23838,7 @@ input[type=password]::-ms-clear {
     }
     .home-three-slide-text h5 {
         padding: 10px;
-        font-size: 12px
+        font-size: 25px;
     }
     .home-three-transform .cta-content h2 {
         font-size: 25px
