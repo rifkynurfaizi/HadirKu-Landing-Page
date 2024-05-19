@@ -147,31 +147,11 @@
                     presensi Anda.
                   </p>
                 </div>
-                <div class="banner-three-content">
-                  <form class="form" action="#">
-                    <div class="form-inner-three">
-                      <div class="input-group">
-                        <input
-                          type="email"
-                          class="form-control"
-                          placeholder="Temukan, Acara yang kamu, inginkan"
-                        />
-                        <span class="drop-detail-three">
-                          <select class="form-three-select select">
-                            <option>Pilih Kategori</option>
-                            <option>Wisuda</option>
-                            <option>Pernikahan</option>
-                            <option>Perlombaan</option>
-                            <option>Bukber</option>
-                          </select>
-                        </span>
-                        <button class="btn btn-three-primary sub-btn" type="">
-                          <i class="fas fa-arrow-right"></i>
-                        </button>
-                      </div>
-                    </div>
-                  </form>
-                </div>
+                <ul class="nav header-navbar-rht align-items-center">
+<li class="nav-item">
+<a href="https://hadirku.alphabetincubator.id/login" class="nav-link login-three-head button" href="login.html"><span>Masuk</span></a>
+</li>
+</ul>
               </div>
             </div>
             <div class="col-xl-6 col-lg-4 col-md-6 col-12" data-aos="fade-up">
