@@ -50,34 +50,34 @@
               </div>
               <ul class="main-nav">
                 <li class="has-submenu active">
-                  <a href="/">Home</a>
+                  <a href="/">Beranda</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/Pricing">Pricing</a>
+                  <a href="/Pricing">Harga</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#features">Features</a>
+                  <a href="/#features">Fitur</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="Frequently-Asked-Questions">FAQs</a>
+                  <a href="/Frequently-Asked-Questions">FAQs</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#trusted">Trusted Us</a>
+                  <a href="/#trusted">Kepercayaan Pelanggan</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#events">Events</a>
+                  <a href="/#events">Acara</a>
                 </li>
                 <li class="login-link">
-                  <a href="/login">Login / Signup</a>
+                  <a href="/login">Masuk Log</a>
                 </li>
               </ul>
             </div>
-            <ul class="nav header-navbar-rht align-items-center">
+            <ul class="nav header-navbar-rht align-items-center quattrocento-sans-regular">
               <li class="nav-item">
-                <a class="nav-link login-three-head button" href="/login"><span>Login</span></a>
+                <a class="nav-link login-three-head button" href="/login"><span>Masuk Log</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link signin-three-head" href="/register">Register</a>
+                <a class="nav-link signin-three-head" href="/register">Daftar Log</a>
               </li>
             </ul>
           </div>
@@ -100,12 +100,12 @@
     <div class="tab-content" id="pills-tabContent">
       <div class="tab-pane fade show active" id="pills-pricing1" role="tabpanel" aria-labelledby="pills-pricing1-tab">
         <div class="container">
-          <div class="row">
+          <div class="row justify-content-center">
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-package quattrocento-sans-bold"><b>Free</b></p>
-                  <p class="fw-normal text-s quattrocento-sans-regular" style="color: #0CB1F2"><s>Rp 0</s>,-</p>
+                  <p class="fw-normal text-s quattrocento-sans-regular" style="color: #0CB1F2; font-size: 25px"><s>Rp 0</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 0</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
@@ -126,19 +126,19 @@
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Silver</b></p>
-                  <p class="fw-normal text-white text-s quattrocento-sans-regular"><s>Rp 550,000</s>,-</p>
+                  <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 550,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 250,000</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
+                    <img src="/assets/img/pricing/SilverPricing.png" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 100 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
-                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 1.7rem;">FITUR</h4>
+                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
@@ -153,19 +153,19 @@
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Gold</b></p>
-                  <p class="fw-normal text-white text-s quattrocento-sans-regular"><s>Rp 750,000</s>,-</p>
+                  <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 750,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 500,000</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
+                    <img src="/assets/img/pricing/GoldPricing.png" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 250 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
-                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 1.7rem;">FITUR</h4>
+                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
@@ -180,19 +180,19 @@
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Pearl</b></p>
-                  <p class="fw-normal text-white text-s quattrocento-sans-regular"><s>Rp 1,500,000</s>,-</p>
+                  <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 1,500,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,000,000</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
+                    <img src="/assets/img/pricing/PearlPricing.png" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 500 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
-                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 1.7rem;">FITUR</h4>
+                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
@@ -207,19 +207,19 @@
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
                 <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Emerald</b></p>
-                  <p class="fw-normal text-white text-s quattrocento-sans-regular"><s>Rp 2,000,000</s>,-</p>
+                  <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 2,000,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,850,000</b>,-</p>
                 </div>
                 <div class="price-card-body pricing-table ux_price_table box-shadow-5-hover h-100 d-flex flex-column" style="border-radius:10px;">
                   <div class="padding: 0px 10%; margin-top: -20px;">
-                    <img src="/assets/img/pricing/FreePricing.webp" alt="" style="width: 280px; padding-left: 45px">
+                    <img src="/assets/img/pricing/EmeraldPricing.png" alt="" style="width: 280px; padding-left: 45px">
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 1000 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
-                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 1.7rem;">FITUR</h4>
+                    <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>

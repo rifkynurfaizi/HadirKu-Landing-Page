@@ -50,34 +50,34 @@
               </div>
               <ul class="main-nav">
                 <li class="has-submenu active">
-                  <a href="/">Home</a>
+                  <a href="/">Beranda</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/Pricing">Pricing</a>
+                  <a href="/Pricing">Harga</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#features">Features</a>
+                  <a href="/#features">Fitur</a>
                 </li>
                 <li class="has-submenu">
                   <a href="/Frequently-Asked-Questions">FAQs</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#trusted">Trusted Us</a>
+                  <a href="/#trusted">Kepercayaan Pelanggan</a>
                 </li>
                 <li class="has-submenu">
-                  <a href="/#events">Events</a>
+                  <a href="/#events">Acara</a>
                 </li>
                 <li class="login-link">
-                  <a href="/login">Login / Signup</a>
+                  <a href="/login">Masuk Log</a>
                 </li>
               </ul>
             </div>
             <ul class="nav header-navbar-rht align-items-center quattrocento-sans-regular">
               <li class="nav-item">
-                <a class="nav-link login-three-head button" href="/login"><span>Login</span></a>
+                <a class="nav-link login-three-head button" href="/login"><span>Masuk Log</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link signin-three-head" href="/register">Register</a>
+                <a class="nav-link signin-three-head" href="/register">Daftar Log</a>
               </li>
             </ul>
           </div>
@@ -320,14 +320,14 @@
                   <div class="footer-cta">
                     <div>
                       <a href="#" class="quattrocento-sans-regular">
-                        Phone: +628113865xxx
+                        Phone: +6285691924390
                       </a>
                     </div>
-                    <div>
+                    <!--<div>
                       <a href="#" class="quattrocento-sans-regular">
                         Email: halo@hadirku.com
                       </a>
-                    </div>
+                    </div>-->
                   </div>
                 </div>
               </div>
@@ -395,7 +395,7 @@
     <!-- WhatsApp Area -->
     <div class="chat-wa">
       <a
-        href="https://wa.me/6285210488085?text=Halo%20admin,%20saya%20ingin%20bertanya%20tentang%20Hadirku"
+        href="https://wa.me/6285691924390?text=Halo%20admin,%20saya%20ingin%20bertanya%20tentang%20Hadirku"
         target="_blank"
         aria-label="link"
       >

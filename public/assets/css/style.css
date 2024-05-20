@@ -25,7 +25,7 @@ body {
 }
 
 .price-card-header {
-    font-size: 40px;
+    font-size: 30px;
     padding: 20px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .price-card-body {
-    font-size: 20px
+    font-size: 17px
 }
 
 .faq{
