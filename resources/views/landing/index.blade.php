@@ -173,7 +173,7 @@
           <div class="row align-items-center">
             <div class="col-xl-3 col-lg-12 col-md-12" data-aos="fade-down">
               <div class="acheive-goals-main">
-                <h2>Acheive you Goals with DreamsLMS</h2>
+                <h2>Capai Tujuan Anda dengan Hadirku</h2>
               </div>
             </div>
 
@@ -733,7 +733,7 @@
               <div class="col-lg-6 col-md-4">
                 <div class="see-all">
                   <a href="blog-list.html" class="quattrocento-sans-regular"
-                    >See all<span class="see-all-icon"
+                    >Lihat semua<span class="see-all-icon"
                       ><i class="fas fa-arrow-right"></i></span
                   ></a>
                 </div>
@@ -759,7 +759,7 @@
                         <div class="event-three-title">
                           <div class="event-span-three">
                             <span class="span-name-three badge-green"
-                              >sale</span
+                              >penjualan</span
                             >
                           </div>
                           <a href="/Blog-details">
@@ -794,7 +794,7 @@
                       <div class="latest-blog-content">
                         <div class="event-three-title">
                           <div class="event-span-three">
-                            <span class="span-name-three badge-info">sale</span>
+                            <span class="span-name-three badge-info">penjualan</span>
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
@@ -832,7 +832,7 @@
                       <div class="latest-blog-content">
                         <div class="event-three-title">
                           <div class="event-span-three">
-                            <span class="span-name-three badge-info">sale</span>
+                            <span class="span-name-three badge-info">penjualan</span>
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
@@ -867,7 +867,7 @@
                       <div class="latest-blog-content">
                         <div class="event-three-title">
                           <div class="event-span-three">
-                            <span class="span-name-three badge-info">sale</span>
+                            <span class="span-name-three badge-info">penjualan</span>
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
