@@ -185,8 +185,8 @@
                 <div
                   class="acheive-goals-content text-center course-count ms-0"
                 >
-                  <h4><span class="counterUp">253,085</span></h4>
-                  <p>Students Enrolled all over World</p>
+                  <h4><span class="counterUp">0</span></h4>
+                  <p>Acara Menggunakan Hadirku</p>
                 </div>
               </div>
             </div>
@@ -199,8 +199,8 @@
                 <div
                   class="acheive-goals-content text-center course-count ms-0"
                 >
-                  <h4><span class="counterUp">1,205</span></h4>
-                  <p>Total Courses on our Platform</p>
+                  <h4><span class="counterUp">0</span></h4>
+                  <p>Total Pengguna di Platform Hadirku</p>
                 </div>
               </div>
             </div>
@@ -213,8 +213,8 @@
                 <div
                   class="acheive-goals-content text-center course-count ms-0"
                 >
-                  <h4><span class="counterUp">56</span></h4>
-                  <p>Countries of Students</p>
+                  <h4><span class="counterUp">0</span></h4>
+                  <p>Pelanggan Pengguna Hadirku</p>
                 </div>
               </div>
             </div>
@@ -751,7 +751,7 @@
                           <img
                             class="img-fluid"
                             alt
-                            src="assets/img/blog/gambar1.jpg"
+                            src="assets/img/blog/gambar2.jpg"
                           />
                         </a>
                       </div>
@@ -764,11 +764,11 @@
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
-                              What is Lorem Ipsum
+                            Selamat datang di Acara kami
                             </h5>
                             <p class="quattrocento-sans-regular">
-                              Lorem Ipsum is simply dummy text of the printing
-                              and typesetting industry.
+                            Kami senang Anda bisa bergabung dengan kami untuk mengeksplorasi 
+                            inovasi terbaru dan tren terkini dalam undangan digital.
                             </p>
                           </a>
 
@@ -787,7 +787,7 @@
                           <img
                             class="img-fluid"
                             alt
-                            src="assets/img/blog/gambar2.jpg"
+                            src="assets/img/blog/gambar1.jpg"
                           />
                         </a>
                       </div>
@@ -798,12 +798,10 @@
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
-                              Why do we use it
+                            Scan QR Code untuk mendapatkan informasi lengkap di acara kami.
                             </h5>
                             <p class="quattrocento-sans-regular">
-                              It is a long established fact that a reader will
-                              be distracted by the readable content of a page
-                              when looking at its layout.
+                            Tetap terhubung dan jangan lewatkan momen penting dari Acara Terkini.
                             </p>
                           </a>
                           <div class="blog-student-count">
@@ -825,7 +823,7 @@
                           <img
                             class="img-fluid"
                             alt
-                            src="assets/img/blog/gambar3.jpg"
+                            src="assets/img/blog/gambar4.jpg"
                           />
                         </a>
                       </div>
@@ -836,13 +834,11 @@
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
-                              Where does it come from
+                            Anda akan menemukan informasi terbaru tentang event dan peluncuran fitur yang kami adakan.
                             </h5>
                             <p class="quattrocento-sans-regular">
-                              ontrary to popular belief, Lorem Ipsum is not
-                              simply random text. It has roots in a piece of
-                              classical Latin literature from 45 BC, making it
-                              over 2000 years old.
+                            Terima kasih telah menjadi bagian dari perjalanan kami, 
+                            dan kami berharap acara-acara ini dapat memberikan inspirasi dan nilai tambah bagi Anda.
                             </p>
                           </a>
                           <div class="blog-student-count">
@@ -860,7 +856,7 @@
                           <img
                             class="img-fluid"
                             alt
-                            src="assets/img/blog/gambar4.jpg"
+                            src="assets/img/blog/gambar3.jpg"
                           />
                         </a>
                       </div>
@@ -871,12 +867,11 @@
                           </div>
                           <a href="/Blog-details">
                             <h5 class="quattrocento-sans-bold">
-                              Why do we use it
+                            Temukan inspirasi terbaru,tren terbaru dalam dunia undangan digital.
                             </h5>
                             <p class="quattrocento-sans-regular">
-                              It is a long established fact that a reader will
-                              be distracted by the readable content of a page
-                              when looking at its layout.
+                            Mari bersama-sama mengeksplorasi inovasi-inovasi 
+                            terkini yang akan mempercantik setiap momen acara Anda.
                             </p>
                           </a>
                           <div class="blog-student-count">
