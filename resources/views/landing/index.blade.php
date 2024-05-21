@@ -60,7 +60,7 @@
                   />
                 </a>
               </div>
-              <div class="main-menu-wrapper">
+              <div class="main-menu-wrapper quattrocento-sans-regular">
                 <div class="menu-header">
                   <a href="/" class="menu-logo">
                     <img
@@ -79,7 +79,7 @@
                 </div>
                 <ul class="main-nav">
                   <li class="has-submenu active">
-                    <a href>Home</a>
+                    <a href>Beranda</a>
                   </li>
                   <li class="has-submenu">
                     <a href="/Pricing"
@@ -94,7 +94,7 @@
                   </li>
                   <li class="has-submenu">
                     <a href="#trusted"
-                      >Percayai Kami</a>
+                      >Kepercayaan Pelanggan</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#events"
