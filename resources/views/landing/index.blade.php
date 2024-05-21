@@ -83,22 +83,22 @@
                   </li>
                   <li class="has-submenu">
                     <a href="/Pricing"
-                      >Pricing</a>
+                      >Harga</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#features"
-                      >Features</a>
+                      >Fitur</a>
                   </li>
                   <li>
                     <a href="/Frequently-Asked-Questions">FAQs</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#trusted"
-                      >Trusted Us</a>
+                      >Percayai Kami</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#events"
-                      >Events</a>
+                      >Acara</a>
                   </li>
                   <li class="login-link">
                     <a href="/login">Masuk / Daftar</a>

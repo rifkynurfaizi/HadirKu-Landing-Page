@@ -83,22 +83,22 @@
                   </li>
                   <li class="has-submenu">
                     <a href="/Pricing"
-                      >Pricing</a>
+                      >Harga</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#features"
-                      >Features</a>
+                      >Fitur</a>
                   </li>
                   <li>
                     <a href="/Frequently-Asked-Questions">FAQs</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#trusted"
-                      >Trusted Us</a>
+                      >Percayai Kami</a>
                   </li>
                   <li class="has-submenu">
                     <a href="#events"
-                      >Events</a>
+                      >Acara</a>
                   </li>
                   <li class="login-link">
                     <a href="/login">Masuk / Daftar</a>
@@ -166,25 +166,24 @@
                           class="img-fluid"
                           src="assets/img/icon/icon-23 1.svg"
                           alt
-                        />Programming, Web Design
+                        />Platform undangan digital
                       </li>
                     </ul>
                   </div>
                 </div>
                 <h3 class="blog-title">
                   <a href="/Blog-details" class="quattrocento-sans-bold"
-                    >Learn Webs Applications Development from Experts</a
+                    >Pelajari Pengelolaan Presensi Digital dengan Hadirku</a
                   >
                 </h3>
                 <div class="blog-content">
                   <p class="quattrocento-sans-regular">
-                    When working on a new piece of software, it’s essential to
-                    craft a software design document to create a clear and
-                    precise vision of the client’s problem and your proposed
-                    solution. Software design documents are important for
-                    detailing expectations between the software engineer and the
-                    client. They help to streamline the coding process before
-                    any code is written.
+                  Ikuti sesi mendalam bersama para ahli dan temukan cara terbaik dalam mengelola presensi digital, 
+                  Dengan platform Hadirku, Anda akan mempelajari teknik-teknik efektif untuk meningkatkan efisiensi dan
+                  akurasi dalam pelacakan kehadiran. Dapatkan wawasan berharga tentang fitur-fitur canggih kami 
+                  dan bagaimana mereka dapat diintegrasikan untuk memenuhi kebutuhan bisnis atau acara Anda,
+                  Tingkatkan kemampuan Anda dalam mengelola presensi digital dan optimalkan operasi 
+                  harian Anda bersama Hadirku.
                   </p>
                 </div>
               </div>
@@ -210,7 +209,7 @@
 
               <div class="card post-widget blog-widget">
                 <div class="card-header">
-                  <h4 class="card-title">Recent Posts</h4>
+                  <h4 class="card-title">Tulisan Terbaru</h4>
                 </div>
                 <div class="card-body">
                   <ul class="latest-posts">
@@ -230,7 +229,7 @@
                           <a
                             href="/Blog-details"
                             class="quattrocento-sans-bold"
-                            >Learn Webs Applications Development from Experts</a
+                            >Cara Mudah Mengelola Presensi Digital dengan Hadirku</a
                           >
                         </h4>
                         <p>
@@ -258,7 +257,7 @@
                           <a
                             href="/Blog-details"
                             class="quattrocento-sans-bold"
-                            >Expand Your Career Opportunities With Python</a
+                            >Fitur Unggulan Hadirku: Solusi Presensi Digital Terbaik</a
                           >
                         </h4>
                         <p>
@@ -287,7 +286,7 @@
                           <a
                             href="/Blog-details"
                             class="quattrocento-sans-bold"
-                            >Complete PHP Programming Career Guideline</a
+                            >Mengapa Hadirku Menjadi Pilihan Terbaik untuk Manajemen Presensi</a
                           >
                         </h4>
                         <p>
