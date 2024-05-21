@@ -963,7 +963,7 @@
                     <div class="footer-cta">
                       <div>
                         <a href="#" class="quattrocento-sans-regular">
-                          Phone: +628113865xxx
+                          Phone: +62 856-9192-4390
                         </a>
                       </div>
                       <div>
@@ -1039,7 +1039,7 @@
       <!-- WhatsApp Area -->
       <div class="chat-wa">
         <a
-          href="https://wa.me/6285210488085?text=Halo%20admin,%20saya%20ingin%20bertanya%20tentang%20Hadirku"
+          href="https://wa.me/6285691924390?text=Halo%20admin,%20saya%20ingin%20bertanya%20tentang%20Hadirku"
           target="_blank"
           aria-label="link"
         >
