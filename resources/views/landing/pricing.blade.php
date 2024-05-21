@@ -103,7 +103,7 @@
           <div class="row justify-content-center">
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
-                <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
+                <div class="price-card-header py-4 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-package quattrocento-sans-bold"><b>Free</b></p>
                   <p class="fw-normal text-s quattrocento-sans-regular" style="color: #0CB1F2; font-size: 25px"><s>Rp 0</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 0</b>,-</p>
@@ -124,7 +124,7 @@
 
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
-                <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
+                <div class="price-card-header py-4 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Silver</b></p>
                   <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 550,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 250,000</b>,-</p>
@@ -151,7 +151,7 @@
 
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
-                <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
+                <div class="price-card-header py-4 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Gold</b></p>
                   <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 750,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 500,000</b>,-</p>
@@ -178,7 +178,7 @@
 
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
-                <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
+                <div class="price-card-header py-4 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Pearl</b></p>
                   <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 1,500,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,000,000</b>,-</p>
@@ -205,7 +205,7 @@
 
             <div class="price-card col-md-4">
               <div class="package-wrap card bg-white mb-4 rounded-3 shadow-sm mx-2">
-                <div class="price-card-header py-5 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
+                <div class="price-card-header py-4 rounded-top-4 text-white" style="background-color: #0CB1F2; border-color:black;">
                   <p class="my-0 fw-normal text-pricing quattrocento-sans-bold"><b>Emerald</b></p>
                   <p class="fw-normal text-white text-s quattrocento-sans-regular" style="font-size: 25px"><s>Rp 2,000,000</s>,-</p>
                   <p class="my-0 fw-normal text-white text-pricing quattrocento-sans-regular" style="line-height: 1.5"><b>Rp 1,850,000</b>,-</p>
