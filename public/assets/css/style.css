@@ -8005,7 +8005,7 @@ textarea:focus {
     padding: 0;
     margin-bottom: 36px;
     align-items: center;
-
+    display: none;
 }
 
 

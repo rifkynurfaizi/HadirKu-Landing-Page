@@ -978,7 +978,7 @@
                   <div
                     class="footer-widget-three footer-menu-three footer-three-right"
                   >
-                  <!-- payment -->
+                  
                     <h6 class="footer-three-title">Payments</h6>
                     <div class="payments">
                       <img
@@ -1013,7 +1013,6 @@
                       </li>
                     </ul>
                   </div>
-                  <!-- payment -->
                 </div>
               </div>
             </div>
