@@ -26484,7 +26484,7 @@ input[type=password]::-ms-clear {
         margin-bottom: 24px
     }
     .footer-three-right {
-        margin-left: 0
+        margin-left: 0;
     }
     .social-icon-three {
         display: block;
