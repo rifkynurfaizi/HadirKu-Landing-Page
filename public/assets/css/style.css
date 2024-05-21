@@ -8018,7 +8018,7 @@ textarea:focus {
     transition: all .4s ease 0s;
     border-radius: 3px;
     background-color: #ffffff;
-
+    display: none;
 }
 
 @media (max-width: 499px) {
