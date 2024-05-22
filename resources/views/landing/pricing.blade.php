@@ -135,15 +135,15 @@
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 100 Orang</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 100 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
                     <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
                   </div>
                 </div>
               </div>
@@ -162,15 +162,15 @@
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 250 Orang</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 250 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
                     <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
                   </div>
                 </div>
               </div>
@@ -189,15 +189,15 @@
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 500 Orang</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 500 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
                     <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
                   </div>
                 </div>
               </div>
@@ -216,15 +216,15 @@
                   </div>
                   <div class="px-3">
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Masa Aktif : D+ 1 Event</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 1000 Orang</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Peserta : 1000 Orang</b></p>
                     <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; Kuota WA Blast : Unlimited</p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Kuota Email Blast : Unlimited</b></p>
                     <h4 class="mt-3 mb-1 fw-bold quattrocento-sans-regular" style="font-size: 20px;">FITUR</h4>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
-                    <p class="mb-2 quattrocento-sans-regular" style="color: #0CB1F2;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Auto Reminder Email</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Pendaftaran Mandiri</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Unlimited Kustom Kategori</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Perhitungan Tamu yang membawa Keluarga</b></p>
+                    <p class="mb-2 quattrocento-sans-regular" style="color: #025E73;"><i class="fa fa-check-circle fa-lg"></i> &nbsp; <b>Tambahan Staf Manajemen Acara</b></p>
                   </div>
                 </div>
               </div>
