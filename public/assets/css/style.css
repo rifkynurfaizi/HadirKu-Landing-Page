@@ -22988,7 +22988,7 @@ input[type=password]::-ms-clear {
     }
     .social-icon-three ul li a {
         width: 32px;
-        height: 32px
+        height: 32px;
         color: #fff;
         display: flex;
         align-items: center;
