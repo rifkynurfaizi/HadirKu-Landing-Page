@@ -926,7 +926,7 @@
                           <a
                             href="#"
                             target="_blank"
-                            class="fa-brands-fa-instagram"
+                            class="fa-brands-fa-instagram-icon"
                           >
                             <i class="fa-brands-fa-instagram"></i>
                           </a>
