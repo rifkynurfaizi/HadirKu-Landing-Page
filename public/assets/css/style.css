@@ -22989,6 +22989,13 @@ input[type=password]::-ms-clear {
     .social-icon-three ul li a {
         width: 32px;
         height: 32px
+        color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s ease 0s;
+    background: #2bb7e5;
+    border-radius: 50%;
     }
     .copyright-text-three p {
         font-size: 14px
