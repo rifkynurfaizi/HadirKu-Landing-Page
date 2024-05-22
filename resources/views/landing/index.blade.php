@@ -924,7 +924,7 @@
                       <ul>
                         <li>
                           <a
-                            href="#"
+                            href="https://www.instagram.com/bosindo.indonesia"
                             target="_blank"
                             class="fa-brands fa-instagram"
                           >
