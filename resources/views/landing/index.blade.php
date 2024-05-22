@@ -926,9 +926,9 @@
                           <a
                             href="#"
                             target="_blank"
-                            class="feather-facebook-icon"
+                            class="fa-brands fa-instagram"
                           >
-                            <i class="feather-facebook"></i>
+                            <i class="fa-brands fa-instagram"></i>
                           </a>
                         </li>
                         <li>
