@@ -8120,7 +8120,7 @@ textarea:focus {
     margin-right: 15px
 }
 
-.social-icon-three ul li .fa-brands-fa-instagram{
+.social-icon-three ul li  .fa-instagram{
     color: #fff;
     display: flex;
     align-items: center;
@@ -8130,7 +8130,7 @@ textarea:focus {
     border-radius: 50%
 }
 
-.social-icon-three ul li .fa-brands-fa-instagram:hover {
+.social-icon-three ul li  .fa-instagram:hover {
     background: #7b1ffe
 }
 
