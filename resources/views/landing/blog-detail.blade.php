@@ -342,51 +342,31 @@
                       <ul>
                         <li>
                           <a
-                            href="#"
+                            href="https://www.instagram.com/bosindo.indonesia"
                             target="_blank"
-                            class="feather-facebook-icon"
+                            class="fa-brands fa-instagram"
                           >
-                            <i class="feather-facebook"></i>
+                            <i class="fa-brands fa-instagram"></i>
                           </a>
                         </li>
                         <li>
-                          <a
-                            href="#"
-                            target="_blank"
-                            class="feather-twitter-icon"
-                          >
-                            <i class="feather-twitter"></i>
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="#"
-                            target="_blank"
-                            class="feather-linkedin-icon"
-                          >
-                            <i class="feather-linkedin"></i>
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="#"
-                            target="_blank"
-                            class="feather-youtube-icon"
-                          >
-                            <i class="feather-youtube"></i>
-                          </a>
-                        </li>
+                          
                       </ul>
                     </div>
                     <div class="footer-cta">
                       <div>
                         <a href="#" class="quattrocento-sans-regular">
-                          Phone: +628113865xxx
+                        Instagram: bosindo
                         </a>
                       </div>
                       <div>
                         <a href="#" class="quattrocento-sans-regular">
                           Email: halo@hadirku.com
+                        </a>
+                      </div>
+                      <div>
+                        <a href="#" class="quattrocento-sans-regular">
+                        Phone: +62 856-9192-4390
                         </a>
                       </div>
                     </div>
