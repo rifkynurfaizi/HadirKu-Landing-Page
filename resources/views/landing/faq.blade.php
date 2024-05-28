@@ -99,6 +99,11 @@
               <button type="button" class="btn quattrocento-sans-regular rounded-3" style="background-color: #0CB1F2"><a href="https://wa.me/+6285691924390" style="color: #FFFFFF">Konsultasi via WA</a></button>
             </div>
           </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row landing--faqs justify-content-center">
           <div class="col-10">
             <h2 class="px-1 h2_blog">A. Hadirku</h2>
             <div class="accordion" id="accordionFAQ">
@@ -235,12 +240,26 @@
                     Anda dapat menghubungi kami melalui <strong> <a href="https://wa.me/+6285691924390" target="_blank" rel="noopener noreferrer"> Melalui Whatsapp Kami</a> </strong> dan Kami dengan senang hati akan membantu Anda.
                   </div>
                 </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header quattrocento-sans-bold">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                      <b>Bagaimana cara saya membayar? Apakah saat saya telah membayar paket saya akan langsung aktif?</b>
+                    </button>
+                  </h2>
+                  <div id="collapseEleven" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ3">
+                    <div class="accordion-body quattrocento-sans-regular">
+                      Untuk pembayaran Anda dapat menghubungi Tim Hadirku Melalui Whatsapp yang telah tertera / Melalui Floating Gadget pada Pojok kanan Bawah. <br><b> Berikut diagram cara pembayaran:</b> <br> <img src="/assets/img/faqs/diagram-pembayaran.png" class="col-12" alt="">
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-
         </div>
       </div>
+          
+
+      
     </section>
 
     <!--
