@@ -103,6 +103,19 @@
       </div>
 
       <div class="container">
+        <div class="row landing--faqs-searchbar justify-content-center">
+          <div class="col-9">
+            <div class="input-group rounded">
+              <input type="search" class="form-control rounded" style="border-color: #0CB1F2;" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+              <button type="button" class="btn rounded" style="background-color: #fed700">
+                <i class="fas fa-search"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
         <div class="row landing--faqs justify-content-center">
           <div class="col-10">
             <h2 class="px-1 h2_blog">A. Hadirku</h2>
