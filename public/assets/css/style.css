@@ -97,7 +97,17 @@ body {
 }
 
 .landing--faqs-header {
+    position: relative;
     padding-bottom: 20px;
+    background-image: url(../img/faqs/faq-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+    min-width: 600px;
+}
+.landing--faqs-searchbar {
+    padding-top: 20px;
 }
 
 .accordion-body {

@@ -91,9 +91,9 @@
     <section class="faq">
       <div class="container">
         <div class="row landing--faqs justify-content-center">
-          <div class="col-md-6">
-            <div class="landing--faqs-header">
-              <p class="text-muted quattrocento-sans-bold" style="font-size: 40px"><strong>FAQs</strong></p>
+          <div class="col-md-9">
+            <div class="landing--faqs-header text-center">
+              <p class="text-muted quattrocento-sans-bold text-light" style="font-size: 40px;"><strong>FAQs</strong></p>
               <h3 class="quattrocento-sans-bold">Punya Pertanyaan Lain yang belum terjawab?</h3>
               <p class="quattrocento-sans-regular">Ini Beberapa Pertanyaan Yang Sering Ditanyakan Seputar Hadirku</p>
               <button type="button" class="btn quattrocento-sans-regular rounded-3" style="background-color: #0CB1F2"><a href="https://wa.me/+6285691924390" style="color: #FFFFFF">Konsultasi via WA</a></button>
